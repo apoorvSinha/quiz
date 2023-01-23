@@ -6,4 +6,5 @@
     <string name="please_enter_your_name">PLease enter your name</string>
     <string name="name">Name</string>
     <string name="enter_your_name">Enter your Name</string>
+    <string name="question_head">What Country does this flag belong to?</string>
 </resources>
